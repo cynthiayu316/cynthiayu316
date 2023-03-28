@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **cynthiayu316/cynthiayu316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am a Columbia MSDS student. I get a my undergrad in UCSD in cognitive science specializing in machine lerning. 
@@ -14,7 +14,7 @@ I am a Columbia MSDS student. I get a my undergrad in UCSD in cognitive science 
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/binghongyu/)
   
--->
+
   
   [![Cynthia Yu's github stats](https://github-readme-stats.vercel.app/api?username=cynthiayu316&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/cynthiayu316/github-readme-stats)
   
