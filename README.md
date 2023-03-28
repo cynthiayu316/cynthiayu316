@@ -8,7 +8,7 @@ I am a Columbia MSDS student. I get a my undergrad in UCSD in cognitive science 
 - 🔭 I’m currently working in [Shanghai Qizhi Institute](https://sqz.ac.cn/)
 - 🌱 I’m currently learning deep learning, python, and self-driving vehicles.
 - 😄 Pronouns: She/Her
-- :zap: I love programming, data science, machine learning, cooking and books
+- :zap: I love programming, data science, machine learning, pets and kpop
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my posts
 - 📫 How to find me: 
