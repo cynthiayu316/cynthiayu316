@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 
-**cynthiayu316/cynthiayu316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Columbia MSDS(Master of Science in Data Science) student. I get my undergrad degree in UCSD in cognitive science specializing in machine lerning. 
 
-I am a Columbia MSDS student. I get a my undergrad in UCSD in cognitive science specializing in machine lerning. 
-
-- 🔭 I’m currently working in [Shanghai Qizhi Institute](https://sqz.ac.cn/)
+- 🔭 I’m currently working as a machine learing research assistant in [Shanghai Qizhi Institute](https://sqz.ac.cn/)
 - 🌱 I’m currently learning deep learning, python, and self-driving vehicles.
 - 😄 Pronouns: She/Her
 - :zap: I love programming, data science, machine learning, pets and kpop
